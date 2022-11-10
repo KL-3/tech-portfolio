@@ -69,7 +69,7 @@ const siteConfig = {
     socialMedia: {
         linkedin: '',
         twitter: '',
-        github: 'https://github.com/KL-3',
+        github: 'KL-3',
     },
 
     // You may provide arbitrary config keys to be used as needed by your
