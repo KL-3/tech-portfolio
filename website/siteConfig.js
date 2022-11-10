@@ -12,10 +12,10 @@
 const users = [];
 
 const siteConfig = {
-    title: 'Tonya A. Melvin-Bryant', // Title for your website.
-    tagline: 'Continuously improving, aspiring technologist.',
-    profilePhoto: 'img/profile.png',
-    url: 'https://tamelvinbryant.github.io', // Your website URL
+    title: 'Katherine L', // Title for your website.
+    tagline: '',
+    profilePhoto: 'https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.5wIb8qnGSyLcYbi-u251aAHaDS%26pid%3DApi&f=1&ipt=743e70b716ec82475a35817dc6738ad558d222e600edcf9f602a36b78e1b70c6&ipo=images',
+    url: 'https://KL-3.github.io', // Your website URL
     baseUrl: '/tech-portfolio/', // Base URL for your project */
     // For github.io type URLs, you would set the url and baseUrl like:
     //   url: 'https://facebook.github.io',
@@ -23,7 +23,7 @@ const siteConfig = {
 
     // Used for publishing and more
     projectName: 'tech-portfolio',
-    organizationName: 'tamelvinbryant',
+    organizationName: 'KL-3',
     // For top-level user or org sites, the organization is still the same.
     // e.g., for the https://JoelMarcey.github.io site, it would be set like...
     //   organizationName: 'JoelMarcey'
@@ -67,9 +67,9 @@ const siteConfig = {
     enableUpdateTime: true,
 
     socialMedia: {
-        linkedin: 'tonya-melvin-bryant-ab92b855',
-        twitter: 'tonyamccu',
-        github: 'tamelvinbryant',
+        linkedin: '',
+        twitter: '',
+        github: 'https://github.com/KL-3',
     },
 
     // You may provide arbitrary config keys to be used as needed by your
