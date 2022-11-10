@@ -67,8 +67,6 @@ const siteConfig = {
     enableUpdateTime: true,
 
     socialMedia: {
-        linkedin: '',
-        twitter: '',
         github: 'KL-3',
     },
 
